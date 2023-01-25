@@ -22,7 +22,6 @@ const isEnterEvent = (evt) => {
 
 
 
-
 export {getRandomIntInclusive};
 export {isEscEvent};
 export {isEnterEvent};
